@@ -1,0 +1,266 @@
+{'answer': 'small carnivorous mammal', 'question': 'What type of mammal is the Felis catus?'}
+{'answer': 'Felidae', 'question': 'What is the only domesticated cat in the family?'}
+{'answer': 'house cat, a farm cat or a feral cat', 'question': 'What type of cat can a cat be?'}
+{'answer': 'companionship and their ability to hunt rodents', 'question': 'What are domestic cats valued by humans?'}
+{'answer': '60', 'question': 'How many cat breeds are recognized by various cat registries?'}
+{'answer': 'night vision and sense of smell', 'question': 'What qualities of the cat are well developed?'}
+{'answer': 'vocalizations', 'question': 'What type of communication does Felis catus have?'}
+{'answer': 'sounds too faint or too high in frequency', 'question': 'What can cats hear for human ears?'}
+{'answer': 'pheromones', 'question': 'What does it secrete and perceive?'}
+{'answer': 'cat fancy', 'question': 'What is the hobby of registered pedigreed cats known as?'}
+{'answer': '7500 BC', 'question': 'When were cats first domesticated in the Near East?'}
+{'answer': '3100 BC', 'question': 'When was veneration given to cats in ancient Egypt?'}
+{'answer': '4.8 million', 'question': 'How many households did cats live in the United Kingdom in 2019?'}
+{'answer': '7.3 million', 'question': 'How many cats lived in the United Kingdom as of 2019?'}
+{'answer': 'Old English catt', 'question': "What is the origin of the English word 'cat'?"}
+{'answer': 'Egyptian', 'question': "Where is the word 'cattus' derived from?"}
+{'answer': 'kaddîska', 'question': 'What is the name of the Nubian word?'}
+{'answer': 'Arabic', 'question': 'The Nubian word may be a loan from what language?'}
+{'answer': 'Greek and to Syriac and Arabic', 'question': 'Where can the forms of the Nubian word come from?'}
+{'answer': 'male stoat', 'question': 'What is the name of the Northern Sami gáfi?'}
+{'answer': 'a tom or tomcat', 'question': 'What is a male cat called?'}
+{'answer': 'queen', 'question': 'What is an unspayed female called?'}
+{'answer': 'kitten', 'question': 'What is a juvenile cat referred to as?'}
+{'answer': 'Carl Linnaeus', 'question': 'Who proposed the scientific name Felis catus for a domestic cat?'}
+{'answer': 'Johann Christian Polycarp Erxleben', 'question': 'Who proposed Felis catus domesticus in 1777?'}
+{'answer': 'Transcaucasus', 'question': 'What is the name of the black cat that was proposed by Konstantin Alekseevich Satunin?'}
+{'answer': 'F. silvestris catus', 'question': 'What subspecies was the domestic cat considered a subspecies?'}
+{'answer': 'Felis catus', 'question': 'What did the ICZN call the domestic cat a distinct species?'}
+{'answer': 'Felidae', 'question': 'What family had a common ancestor about 10–15 million years ago?'}
+{'answer': 'artificial selection', 'question': 'What did the domestic cat evolve through?'}
+{'answer': 'diploid', 'question': 'The domesticated cat and its closest wild ancestor are what?'}
+{'answer': '5500 BC', 'question': 'When was the leopard cat tamed independently in China?'}
+{'answer': 'leaves no trace', 'question': 'What does this line of partially domesticated cats leave in the domestic cat populations of today?'}
+{'answer': '7500–7200 BC', 'question': 'When was the earliest known indication for the taming of an African wildcat?'}
+{'answer': 'the Middle Eastern mainland', 'question': 'Where did the inhabitants of the Neolithic village bring the cat and other wild mammals to Cyprus?'}
+{'answer': 'thousands of years', 'question': 'How long did the commensal relationship between early farmers and tamed cats last?'}
+{'answer': 'tame and domesticated cats', 'question': 'What animals did agricultural practices spread?'}
+{'answer': 'Wildcats of Egypt', 'question': 'Who contributed to the maternal gene pool of the domestic cat at a later time?'}
+{'answer': '1200 BC', 'question': 'When was the earliest known evidence for the occurrence of the domestic cat in Greece?'}
+{'answer': 'Greek, Phoenician, Carthaginian and Etruscan traders', 'question': 'Who introduced domestic cats to southern Europe?'}
+{'answer': '1st millennium', 'question': 'When were domestic cats introduced to Corsica and Sardinia?'}
+{'answer': 'Magna Graecia and Etruria', 'question': 'Where were domestic cats found by the 5th century BC?'}
+{'answer': 'the Egyptian domestic cat lineage', 'question': 'Who arrived in a Baltic Sea port in northern Germany by the end of the Roman Empire?'}
+{'answer': 'their small size, social nature, obvious body language, love of play and relatively high intelligence', 'question': 'What traits do Leopardus cats have?'}
+{'answer': 'Leopardus cats', 'question': 'What type of cat may display affectionate behavior toward humans?'}
+{'answer': 'feral cats', 'question': 'House cats often mate with what type of cats?'}
+{'answer': 'Hybridisation', 'question': 'What is possible between domestic and other Felinae species?'}
+{'answer': 'ancestral wildcat genome', 'question': 'What was significantly altered in the process of domestication?'}
+{'answer': 'random-bred domestic cats', 'question': 'What are most breeds founded on?'}
+{'answer': 'more than 20 deleterious genetic disorders', 'question': 'How many genetic disorders do purebred cats show?'}
+{'answer': 'European wildcat', 'question': 'What type of cat has a smaller skull and shorter bones than the domestic cat?'}
+{'answer': 'Males', 'question': 'What male cat is larger than female cats?'}
+{'answer': 'between 4 and 5 kg (9 and 11 lb)', 'question': 'How much do domestic cats typically weigh?'}
+{'answer': 'seven', 'question': 'How many cervical vertebrae do cats have?'}
+{'answer': 'extra lumbar and thoracic vertebrae', 'question': "What account for the cat's spinal mobility and flexibility?"}
+{'answer': '13 ribs, the shoulder, and the pelvis', 'question': 'How many ribs are attached to the spine?'}
+{'answer': 'free-floating clavicle bones', 'question': 'What allows cat forelimbs to pass their body through any space into which they can fit their head?'}
+{'answer': 'killing prey and tearing meat', 'question': 'What are cats teeth adapted for?'}
+{'answer': 'lethal neck bite', 'question': 'What does a cat deliver when it overpowers its prey?'}
+{'answer': 'small rodents', 'question': 'What do domestic cats have narrowly spaced canine teeth relative to their preferred prey of?'}
+{'answer': 'scissors', 'question': 'What is the carnassial pair on each side of the mouth used to shear meat into small pieces?'}
+{'answer': 'cats are largely incapable of mastication', 'question': 'What are cats largely incapable of chewing food?'}
+{'answer': 'digitigrade', 'question': 'What is the name of the cat that walks on the toes?'}
+{'answer': 'the toes', 'question': 'Where does the cat walk?'}
+{'answer': 'pacing', 'question': 'What type of gait does the cat use?'}
+{'answer': 'placing each hind paw close to the track of the corresponding fore paw', 'question': 'How does the cat register directly?'}
+{'answer': 'sure footing', 'question': 'What does the "pacing" gait provide for hind paws when navigating rough terrain?'}
+{'answer': 'diagonally opposite', 'question': 'How do the hind and fore legs move?'}
+{'answer': 'protractable and retractable', 'question': 'What type of claws do cats have?'}
+{'answer': 'the skin and fur', 'question': "What are the claws sheathed with around the paw's toe pads?"}
+{'answer': 'sharper', 'question': 'How are the claws on the fore feet typically sharper than those on the hind feet?'}
+{'answer': 'Cats can voluntarily extend their claws on one or more paws', 'question': 'Cats can voluntarily extend their claws on one or more paws?'}
+{'answer': 'hunting or self-defense, climbing, kneading, or for extra traction on soft surfaces', 'question': 'Cats can extend their claws in what?'}
+{'answer': 'four', 'question': 'How many claws do most cats have on their rear paws?'}
+{'answer': 'dewclaw', 'question': 'What is proximal to the other claws?'}
+{'answer': 'sixth', 'question': 'What is the protrusion of a cat?'}
+{'answer': 'antiskidding device', 'question': 'What is the feature of the front paws thought to be used while jumping?'}
+{'answer': 'extra digits', 'question': 'Cat breeds are prone to having what?'}
+{'answer': 'one-sixth', 'question': 'What is the light level required for human vision?'}
+{'answer': 'tapetum lucidum', 'question': 'What reflects any light that passes through the retina back into the eye?'}
+{'answer': 'Large pupils', 'question': 'What type of pupils are an adaptation to dim light?'}
+{'answer': 'slit pupils', 'question': "What is the domestic cat's ability to focus bright light without chromatic aberration?"}
+{'answer': "a cat's pupils expand to cover most of the exposed surface of its eyes", 'question': "What does a cat's pupils expand to cover at low light?"}
+{'answer': 'two types', 'question': 'How many cone cells does the domestic cat have?'}
+{'answer': 'low light levels', 'question': "What does the domestic cat's hearing appear to be an adaptation to?"}
+{'answer': '500 Hz to 32 kHz', 'question': "In what range is the domestic cat's hearing most acute?"}
+{'answer': '55 Hz to 79,000 Hz', 'question': 'What frequencies can the domestic cat detect?'}
+{'answer': '9 octaves', 'question': 'How many octaves can dogs hear?'}
+{'answer': 'pinnae', 'question': 'What amplify sounds and help detect the location of a noise?'}
+{'answer': 'ultrasound', 'question': 'What can the cat detect?'}
+{'answer': '5.8 square centimetres', 'question': 'How large is the surface of olfactory mucosa?'}
+{'answer': 'sense certain aromas in a way that humans cannot', 'question': 'What does it allow cats to do?'}
+{'answer': 'urine spraying and marking with scent glands', 'question': 'What does 3-mercapto-3-methylbutan-1-ol communicate through?'}
+{'answer': 'less than one part per billion', 'question': 'Catnip can detect nepetalactone at what rate?'}
+{'answer': '70–80%', 'question': 'What percentage of cats are affected by nepetalactone?'}
+{'answer': 'silver vine', 'question': 'What is the name of the plant that produces nepetalactone?'}
+{'answer': '9,000', 'question': 'How many taste buds do cats have on the human tongue?'}
+{'answer': 'taste receptor gene mutation', 'question': 'What does domestic and wild cats share that keeps their sweet taste buds from binding to sugary molecules?'}
+{'answer': '38 °C (100 °F)', 'question': 'What is the temperature of a cat that is similar to a fresh kill?'}
+{'answer': 'dozens', 'question': 'How many movable whiskers do cats have over their body?'}
+{'answer': 'by touching objects directly and by sensing air currents', 'question': 'What do movable whiskers provide information on the location of objects in the dark?'}
+{'answer': 'perching', 'question': 'What do most breeds of cat have a noted fondness for sitting in high places?'}
+{'answer': 'height', 'question': 'What gives the cat a better observation point?'}
+{'answer': '3 meters', 'question': 'What is the height of a cat falling from?'}
+{'answer': 'During a fall from a high place', 'question': 'When does a cat reflexively twist its body and rights itself to land on its feet?'}
+{'answer': 'righting reflex', 'question': 'What is the cat reflex called when a cat falls from a high place?'}
+{'answer': '90 cm', 'question': 'What is the size of a cat falling from a high place?'}
+{'answer': 'falling cat problem', 'question': 'What is the term for how cats are able to right themselves when falling?'}
+{'answer': 'Behavior', 'question': 'What is the "falling cat problem"?'}
+{'answer': '17–69 acres', 'question': 'How many hectares does a study of cats range from 7 to 28 hectares?'}
+{'answer': 'house cats may be more active in the morning and evening', 'question': "What does the timing of cats' activity mean?"}
+{'answer': 'between 12 and 16 hours', 'question': 'How long does the daily duration of sleep vary?'}
+{'answer': '20 hours', 'question': 'How many hours can some cats sleep?'}
+{'answer': "cat's tendency to fall asleep (lightly) for a brief period", 'question': 'What does the term "cat nap" refer to?'}
+{'answer': 'muscle twitches', 'question': 'What do cats experience short periods of rapid eye movement sleep often accompanied by?'}
+{'answer': 'one cat', 'question': 'How many cats are dominant in a colony?'}
+{'answer': '10 times larger', 'question': 'How much larger are males in a colony than female cats?'}
+{'answer': 'urine spraying', 'question': 'What is one way to mark the territories of cats in a colony?'}
+{'answer': 'neutral areas', 'question': 'Where do cats watch and greet each other without territorial conflicts?'}
+{'answer': 'staring, hissing, and growling', 'question': 'What do territory holders chase away stranger cats?'}
+{'answer': 'cats do not have a social survival strategy or a pack mentality', 'question': 'What does a colonial organization say cats do not have?'}
+{'answer': 'high-pitched sounds', 'question': 'What kind of sounds mimic the cries of a hungry human infant?'}
+{'answer': 'poorly socialized', 'question': 'What type of behavior do some cats have?'}
+{'answer': 'communication', 'question': 'What do domestic cats use vocalizations for?'}
+{'answer': 'mood', 'question': 'What is kneading of the paws?'}
+{'answer': 'flattened ears', 'question': 'What indicates hostility?'}
+{'answer': 'Tail-raising', 'question': "What indicates the cat's position in the group's social hierarchy?"}
+{'answer': 'silent', 'question': 'Feral cats are generally what?'}
+{'answer': 'Nose-to-nose touching', 'question': 'What is a common greeting for cats?'}
+{'answer': 'contentment', 'question': 'What do post-nursing cats often purr as a sign of?'}
+{'answer': 'elusive', 'question': 'What is the mechanism by which cats purr?'}
+{'answer': 'unique anatomical feature', 'question': 'What kind of feature does the cat have?'}
+{'answer': 'keratin', 'question': 'What makes them rigid so the papillae act like a hairbrush?'}
+{'answer': 'hairballs of fur', 'question': 'What do longhaired cats usually regurgitate?'}
+{'answer': 'sausage-shaped', 'question': 'What type of fur are longhaired cats usually?'}
+{'answer': 'hair through the gut', 'question': 'Hairballs can be prevented with remedies that ease elimination of what?'}
+{'answer': 'Fighting', 'question': 'What is the most common reason for cat fighting in domestic cats?'}
+{'answer': 'competition between two males to mate with a female', 'question': 'What is the most common reason for cat fighting?'}
+{'answer': 'heavier male', 'question': 'Who wins most fights in domestic cats?'}
+{'answer': 'difficulty of establishing territories within a small home', 'question': 'What is another common reason for fighting in domestic cats?'}
+{'answer': 'Neutering', 'question': 'What can decrease or eliminate the behavior of cats?'}
+{'answer': 'the ears are pointed down and back', 'question': 'What do cats do to avoid damage to the inner ear?'}
+{'answer': 'vocalize loudly and bare their teeth', 'question': 'What do cats do in an effort to intimidate their opponent?'}
+{'answer': 'grappling', 'question': 'What do fights consist of?'}
+{'answer': "rake their opponent's belly", 'question': 'Cats throw themselves to the ground in a defensive posture to do what?'}
+{'answer': 'scratches and bites', 'question': 'What types of infections are usually limited to?'}
+{'answer': 'bites', 'question': 'What is probably the main route of transmission of feline immunodeficiency virus?'}
+{'answer': 'Sexually active males', 'question': 'What type of male is usually involved in fights during their lives?'}
+{'answer': "The shape and structure of cats' cheeks is insufficient to suck", 'question': "What is the cause of cats' cheeks being sucked?"}
+{'answer': 'tongue', 'question': 'What do cats lap with to draw liquid upwards into their mouths?'}
+{'answer': 'four times a second', 'question': 'How many times a second does the cat lap with the tongue to draw liquid upwards into their mouths?'}
+{'answer': 'they dislike chilled foods', 'question': 'What type of foods do cats dislike?'}
+{'answer': 'neophobia', 'question': 'What is the term for novel flavors?'}
+{'answer': 'sweet food and milk', 'question': 'What do Cats avoid?'}
+{'answer': 'lactose intolerant', 'question': 'What type of cat is most adult?'}
+{'answer': 'wool, plastic, cables, paper, string, aluminum foil, or even coal', 'question': 'What do some cats like to chew on?'}
+{'answer': 'pest control', 'question': 'Cats hunt small prey, primarily birds and rodents, and are often used as a form of what?'}
+{'answer': 'prey', 'question': 'What type of species does the strategy used depend on?'}
+{'answer': 'Domestic cats', 'question': 'What is a major predator of wildlife in the United States?'}
+{'answer': '31%', 'question': 'What percentage of deaths were a result of cat predation?'}
+{'answer': 'coyotes', 'question': 'What carnivores prey on cats and other small predators?'}
+{'answer': 'prey', 'question': 'What is an instinctive imperative to ensure that the cat is weak enough to be killed without endangering the cat?'}
+{'answer': 'share excess kill', 'question': 'What do cats do with others in the group according to the dominance hierarchy?'}
+{'answer': 'an elderly cat, or an inept kitten', 'question': 'What is another explanation for cats trying to teach their guardians to hunt?'}
+{'answer': 'male cats', 'question': 'What kind of cats bring home prey?'}
+{'answer': 'eradication of cats', 'question': 'What has caused a "mesopredator release" effect?'}
+{'answer': 'Domestic cats', 'question': 'What is a contributing factor to the decline of many species?'}
+{'answer': "Lyall's wren", 'question': 'What was the most extreme case in New Zealand?'}
+{'answer': '102', 'question': 'How many lesser short-tailed bats were killed in New Zealand?'}
+{'answer': '258', 'question': 'How many reptiles are killed by feral cats each day?'}
+{'answer': 'Navassa curly-tailed lizard and Chioninia coctei', 'question': 'Cats have contributed to the extinction of what species?'}
+{'answer': 'hunting', 'question': 'What does play mimic?'}
+{'answer': 'play fighting', 'question': 'What do cats do with each other and humans?'}
+{'answer': 'to practice the skills needed for real combat', 'question': 'What can cats do with play fighting?'}
+{'answer': 'close similarity between play and hunting', 'question': 'Why do cats prefer to play with objects that resemble prey?'}
+{'answer': 'a medical emergency', 'question': 'What can cause serious illness, even death?'}
+{'answer': "laser pointer's dot", 'question': 'What type of dot can cats chase if it is eaten?'}
+{'answer': '21 days', 'question': 'How long are the estrus cycles usually?'}
+{'answer': 'tomcats', 'question': 'What are male cats called?'}
+{'answer': 'victor', 'question': 'Who wins the right to mate?'}
+{'answer': 'female', 'question': 'Who rejects the male?'}
+{'answer': 'the female attacks him', 'question': 'What happens if a male attempts to mate with her?'}
+{'answer': '20 to 30 minutes', 'question': 'How long does the male attempt to mate with the female?'}
+{'answer': 'ovulation', 'question': 'What is not always triggered by a single mating?'}
+{'answer': '124 hours', 'question': 'How long does the morula last after conception?'}
+{'answer': '148 hours', 'question': 'At what time do early blastocysts form?'}
+{'answer': '10–12 days', 'question': 'At what time does implantation occur?'}
+{'answer': '2,300', 'question': 'How many free-ranging queens were collected during a study between May 1998 and October 2000?'}
+{'answer': '1.4 litters per year', 'question': 'How many litters did kittens produce per year?'}
+{'answer': '127', 'question': 'How many kittens died before they were six months old?'}
+{'answer': 'smaller', 'question': 'What is the size of the first litter of kittens?'}
+{'answer': 'six and seven weeks of age', 'question': 'When are kittens weaned?'}
+{'answer': '5–7 months', 'question': 'What is the average age of male kittens?'}
+{'answer': 'breed', 'question': 'What varies depending on the breed of kittens?'}
+{'answer': '12', 'question': 'At what age are kittens ready to go to new homes?'}
+{'answer': 'seven weeks', 'question': 'How long can kittens be sterilized?'}
+{'answer': 'aggression, territory marking (spraying urine) in males and yowling (calling) in females', 'question': 'What are some of the things that can be prevented by a sex-related surgery?'}
+{'answer': '80%', 'question': 'What percentage of household cats are neutered in the US?'}
+{'answer': 'lifespan', 'question': 'What is the average lifespan of pet cats?'}
+{'answer': '9.4 years', 'question': 'What was the average lifespan of pet cats in 1995?'}
+{'answer': 'Creme Puff', 'question': 'What is the oldest known cat?'}
+{'answer': 'uterine or ovarian cancer', 'question': 'Why do spayed females not develop testicular cancer?'}
+{'answer': 'the use of cats as animal models', 'question': 'What does the high level of similarity between humans and cats allow for the study of human diseases?'}
+{'answer': 'chronic diseases', 'question': 'What are kidney disease, thyroid disease, and arthritis?'}
+{'answer': 'worms and fleas', 'question': 'What parasites are vaccinated to eliminate?'}
+{'answer': 'Ecology', 'question': 'What is the name of the cosmopolitan cat species?'}
+{'answer': '118', 'question': 'How many of the main groups of islands is domestic cat present?'}
+{'answer': 'it can readily interbreed with the wildcat', 'question': 'What is a danger to the genetic distinctiveness of some wildcat populations?'}
+{'answer': 'Iberian Peninsula', 'question': 'What part of the world does the hybridization of the wildcat pose a danger to the genetic distinctiveness of some wildcat populations?'}
+{'answer': 'small islands with no human inhabitants', 'question': 'Where does the wildcat live?'}
+{'answer': 'forests, grasslands, tundra, coastal areas, agricultural land, scrublands, urban areas, and wetlands', 'question': 'Where can Feral cats live?'}
+{'answer': 'Feral cats', 'question': 'What are domestic cats that were born in or have reverted to a wild state?'}
+{'answer': 'twenty-five to sixty million', 'question': 'How many feral cats live in the United States?'}
+{'answer': 'Feral cats', 'question': 'What species may live alone, but most are found in large colonies, which occupy a specific territory and are usually associated with a source of food'}
+{'answer': 'trap-neuter-return', 'question': 'What is one common approach to reducing the feral cat population called?'}
+{'answer': 'nips the tip off one ear', 'question': 'What does the veterinarian usually do before releasing feral cats back into their colonies?'}
+{'answer': 'Volunteers', 'question': 'Who continues to feed and give care to cats throughout their lives?'}
+{'answer': 'their lifespans are increased', 'question': 'What is the reason why cats can be re-tamed and re-tamed for adoption?'}
+{'answer': '2007', 'question': 'When was cat pelts outlawed in the United States, Australia, and the European Union?'}
+{'answer': 'witchcraft', 'question': 'Cat pelts have been used for superstitious purposes as part of what?'}
+{'answer': "the Schrödinger's cat thought experiment", 'question': 'In what Western intellectual tradition have the idea of cats as everyday objects served to illustrate quantum mechanics?'}
+{'answer': 'between 200 million to 600 million', 'question': 'What is the global population of domestic cats?'}
+{'answer': 'Loco', 'question': 'What was the name of the stray that Chandoha photographed in 1949?'}
+{'answer': '90,000', 'question': 'How many cats did Chandoha photograph during his career?'}
+{'answer': 'a breed standard', 'question': 'What is a cat show?'}
+{'answer': 'pedigreed and non-purebred companion ("moggy") cats', 'question': 'What are admissible cats?'}
+{'answer': 'temperament and apparent health', 'question': 'What are Competing cats assessed for?'}
+{'answer': 'activity judging', 'question': 'What do some events include?'}
+{'answer': 'champion cats', 'question': 'What are more national and regional titles awarded to at the end of the year?'}
+{'answer': 'viruses, bacteria, fungus, protozoans, arthropods or worms', 'question': 'Cats can be infected or infested with what?'}
+{'answer': 'no symptoms of the disease', 'question': 'What does the cat exhibit in some cases?'}
+{'answer': 'age and immune status', 'question': 'What factors determine the likelihood that a person will become diseased?'}
+{'answer': 'infected', 'question': 'What are humans more likely to become when they have cats living in their home or in close association?'}
+{'answer': 'Bastet', 'question': 'What goddess often depicted in cat form?'}
+{'answer': 'Herodotus', 'question': 'Who reported that killing a cat was forbidden?'}
+{'answer': 'Bubastis', 'question': 'Where were the dead cats taken to?'}
+{'answer': 'he had only ever seen wildcats', 'question': 'Herodotus expressed astonishment at the domestic cats in Egypt because of what?'}
+{'answer': 'two', 'question': 'How many coins did the Greeks have domestic cats?'}
+{'answer': 'Cats', 'question': 'What is rarely mentioned in ancient Greek literature?'}
+{'answer': 'male cats are naturally lecherous', 'question': 'What did Aristotle call cats?'}
+{'answer': 'Artemis', 'question': 'What goddess did the Greeks sync with the Egyptian goddess Bastet?'}
+{'answer': 'Diana', 'question': "Who turns into a cat in Ovid's Metamorphoses?"}
+{'answer': 'mice', 'question': 'Cats displaced ferrets because they were more enthusiastic hunters of what?'}
+{'answer': 'the Virgin Mary', 'question': "What was Artemis's association with cats grafted onto during the Middle Ages?"}
+{'answer': 'Bethlehem', 'question': 'Where did Mary give birth to a kitten?'}
+{'answer': 'maneki neko cat', 'question': 'What is a symbol of good fortune in Japan?'}
+{'answer': 'Norse', 'question': 'In what mythology is Freyja depicted as riding a chariot drawn by cats?'}
+{'answer': 'Adam', 'question': 'Who was the first man to live in the house of?'}
+{'answer': 'enmity', 'question': 'What did the first cat break an oath they had made?'}
+{'answer': 'neither cats nor foxes are represented in the water', 'question': 'What is the word for foxes?'}
+{'answer': 'Muslims', 'question': 'Who reveres cats in Islam?'}
+{'answer': 'Muezza', 'question': "What is the name of Muhammad's favorite cat?"}
+{'answer': 'Muslim', 'question': 'Who wrote the story of a Sufi saint centuries after Muhammad?'}
+{'answer': 'Abu Hurayrah', 'question': "What was the name of Muhammad's companion?"}
+{'answer': 'negative', 'question': 'What type of superstitions do many cultures have about cats?'}
+{'answer': 'witches', 'question': "What type of familiars are cats used to increase witch's powers and skills?"}
+{'answer': 'Kattenstoet', 'question': 'Where is the killing of cats commemorated in Medieval Ypres, Belgium?'}
+{'answer': 'mid-16th century France', 'question': 'When did cats be burnt alive as a form of entertainment?'}
+{'answer': 'fox', 'question': 'What was burned when a cat was hung from a tall mast in the midst of the bonfire?'}
+{'answer': 'French kings', 'question': 'Who lit the bonfire with their own hands?'}
+{'answer': 'Louis XIV', 'question': 'Who was crowned with a wreath of roses and carrying a bunch of roses in his hand?'}
+{'answer': 'Paris', 'question': 'Where did Louis XIV preside at the midsummer bonfire?'}
+{'answer': 'wicker cages', 'question': 'Where were cats burned alive in Metz midsummer fires?'}
+{'answer': 'Gap', 'question': 'Where were cats roasted over the midsummer bonfire?'}
+{'answer': 'cats', 'question': 'What is a myth in many cultures?'}
+{'answer': 'seven', 'question': 'How many lives are cats in Italy, Germany, Greece, Brazil and some Spanish-speaking regions?'}

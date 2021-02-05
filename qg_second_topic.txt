@@ -1,0 +1,63 @@
+{'answer': 'Ficus benjamina', 'question': 'What is the Botanical Name of the ficus tree?'}
+{'answer': 'Benjamin', 'question': 'What is the common name of ficus tree?'}
+{'answer': 'Evergreen', 'question': 'What type of tree is usually grown as a houseplant?'}
+{'answer': '60', 'question': 'How many feet outdoors are weeping fig?'}
+{'answer': 'Filtered, bright sun', 'question': 'What is the sun exposure of the ficus tree?'}
+{'answer': 'Rich, fast-draining potting soil', 'question': 'What is the soil type of the ficus tree?'}
+{'answer': 'pH: 6.0 to 6.5', 'question': 'What is the pH of the ficus tree?'}
+{'answer': 'Rarely blooms indoors', 'question': 'What is the Bloom Time?'}
+{'answer': 'N/A', 'question': 'What is the flower color of the ficus tree?'}
+{'answer': '10 and 11', 'question': 'How many zones does Hardiness Zones Grow outdoors?'}
+{'answer': 'India, Southeast Asia, Northern Australia', 'question': 'Where is the native area of Weeping fig?'}
+{'answer': 'Non-toxic', 'question': 'What is the Toxicity of the ficus tree?'}
+{'answer': 'ficus', 'question': 'What is a large broadleaf evergreen tree called?'}
+{'answer': 'limited light conditions', 'question': 'What kind of conditions does weeping fig have a good tolerance for?'}
+{'answer': '3 to 6 feet', 'question': 'How tall are weeping figs when grown indoors?'}
+{'answer': '60', 'question': 'How tall are weeping figs in tropical climates?'}
+{'answer': 'improving air quality', 'question': 'What is weeping fig one of the best plants for indoors?'}
+{'answer': 'formaldehyde, benzene, and trichloroethylene', 'question': 'What are some of the top removal rates of weeping fig?'}
+{'answer': 'once per year', 'question': 'How often do weeping figs need to be repotted?'}
+{'answer': 'soil-based potting mix', 'question': 'What kind of potting mix do weeping figs grow in?'}
+{'answer': 'summer', 'question': 'When can weeping figs be brought outdoors?'}
+{'answer': 'Leaf dropping', 'question': 'What is not explained by other causes sometimes indicates infestation by common pests?'}
+{'answer': 'a bright room with plenty of indirect light, and perhaps even a little direct sun in the morning', 'question': 'What does the weeping fig need?'}
+{'answer': 'semi-shady', 'question': 'Where is the weeping fig often grown?'}
+{'answer': 'leaves', 'question': 'What can a weeping fig drop if it is moved?'}
+{'answer': 'keep it there', 'question': 'What should you do to a weeping fig?'}
+{'answer': 'Any good, fast-draining potting soil', 'question': 'What does a weeping fig need to do?'}
+{'answer': 'soil that is especially high in nutrients or organic matter', 'question': 'What do weeping figs not require?'}
+{'answer': 'leaves', 'question': 'What do plants typically drop at the beginning of the dry season?'}
+{'answer': 'watering schedule', 'question': 'What is a good thing about plants when they drop leaves?'}
+{'answer': 'Ficus', 'question': 'What tree does best with nighttime temperatures between 65 and 70 degrees Fahrenheit?'}
+{'answer': 'thermostat', 'question': 'What do you use to regulate temperature fluctuations in your home?'}
+{'answer': 'weeping figs', 'question': 'What will suffer if the indoor temperature drops below 70 degrees Fahrenheit?'}
+{'answer': 'high humidity', 'question': 'What do weeping figs prefer?'}
+{'answer': 'lose their leaves', 'question': 'What happens to weeping figs if they become too dry?'}
+{'answer': 'heavy feeders', 'question': 'What type of feeder are ficus plants?'}
+{'answer': 'slow-release pellets', 'question': 'What kind of pellets do you need to feed your ficus at the beginning of the growing season?'}
+{'answer': 'monthly fertilization', 'question': 'What kind of fertilization will ficus plants benefit from in the spring and summer?'}
+{'answer': 'magnesium and manganese', 'question': 'What do you need to supplement your ficus with if you are dropping leaves?'}
+{'answer': 'latex allergies', 'question': 'What are ficus plants a concern to those who suffer from?'}
+{'answer': 'latex', 'question': 'What is in the ficus plant?'}
+{'answer': 'less tolerant of cold and shade', 'question': 'What is ficus less tolerant of than the rubber tree?'}
+{'answer': 'Starlight', 'question': 'What is F. benjamina called?'}
+{'answer': 'elastica', 'question': 'What is the name of the rubber tree that has large, thick glossy leaves?'}
+{'answer': 'F. elastica robusta', 'question': 'What type of plant has wide, large leaves?'}
+{'answer': '18 inches', 'question': 'How long is the fiddle leaf fig?'}
+{'answer': 'ficus', 'question': 'What is a fast growing plant?'}
+{'answer': 'low water or low temperatures', 'question': 'Why is a ficus growing more slowly?'}
+{'answer': 'how you are growing the plant', 'question': 'What does the repotting requirements depend on?'}
+{'answer': 'standards, topiary, braided standards, regular houseplants, and even bonsai', 'question': 'How can ficus be grown?'}
+{'answer': 'spring', 'question': 'When is it best to take a cutting?'}
+{'answer': 'Ficus', 'question': 'What is rarely grown from seed?'}
+{'answer': '3- to 5-inch', 'question': 'What is the size of a cutting that contains at least two sets of leaves from the tip of a healthy branch?'}
+{'answer': '1/4 inch', 'question': 'How large is the cut below a set of leaves?'}
+{'answer': 'Strip off the leaves from the lower half of the cutting', 'question': 'What is the name of the cut that you can use to coat the cut end with rooting hormone if desired?'}
+{'answer': 'moistened peat moss', 'question': 'What kind of moss is the end of the cutting in a container filled with?'}
+{'answer': 'skewers', 'question': 'What can prop up the bag?'}
+{'answer': 'in a spot with bright, indirect light but out of direct sunlight', 'question': 'What is the purpose of setting the container in a spot with bright, indirect light but out of direct sunlight?'}
+{'answer': 'Moisten the soil if it feels dry at the top', 'question': 'What should you do to the soil if it feels dry at the top of the plant?'}
+{'answer': 'Trimming ficus trees', 'question': 'What is necessary if the plant is touching the ceiling or you want to make it smaller or shape it?'}
+{'answer': 'Prune', 'question': 'What is important when the plant is no longer actively growing?'}
+{'answer': 'fall', 'question': 'When does growth diminish in ficus plants?'}
+{'answer': 'any time during the year', 'question': 'When can a ficus plant be pruned?'}
